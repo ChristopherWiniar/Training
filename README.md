@@ -23,6 +23,8 @@ Python scripting for data manipulation
 
 Hands-on exercises for learning and teaching
 
+My AI Chatbot project http://criz.pythonanywhere.com/ // Needs to be done - find a better AI engine
+
 Feel free to browse through the notebooks. Feedback, suggestions, or collaborations are always welcome!
 
 @Owner: Christopher Winiarski
